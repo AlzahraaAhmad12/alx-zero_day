@@ -1,1 +1,2 @@
-q   qq hjj
+#!/bin/bash
+echo "ALX School is so cool!"
